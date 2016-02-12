@@ -178,7 +178,13 @@ The last step covers the reinstallation of Microsoft .NET Framework packages. Th
 
 >> **Do not** forget to turn windows update on again before closing windows!
 
+
+
 ###End Note :
+
+>- The tutorial was successfully tested with MatLab **2014a** and **2015a** (*64-bits edition*).
+>- The tutorial can be used machines with either **Intel** or **AMD** X64-architecture.
+>- The compiled mex-files and MatLab functions by this tutorial where successfully tested with a **Basler acA640-90um** CCD 3.0 CCD camera.
 
 This includes the tutorial on how to install the Basler camera drivers in Windows 7.
 
